@@ -78,7 +78,7 @@ Currently working as a **Technical Program Manager**, with experience spanning e
 
 ## 📫 Connect
 
-For professional opportunities and collaboration, please reach out through my professional profile.
+Open to conversations about **Technical Program Management, AI + TPM, and engineering leadership opportunities**. [Connect with me on LinkedIn](https://www.linkedin.com/in/sunilrai1/).
 
 ---
 
