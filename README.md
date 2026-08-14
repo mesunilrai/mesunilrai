@@ -6,6 +6,22 @@ Technical Program Manager with **15+ years of IT experience**, focused on comple
 
 ## 🚀 AI + TPM Portfolio
 
+### What I Build
+
+I focus on practical AI solutions that help Technical Program Managers move from **program signals → insight → action → decision**.
+
+- **Program Intelligence** — turning unstructured delivery updates into health, risk, dependency, schedule, and leadership signals.
+- **AI-enabled TPM Workflows** — reusable AI skills and workflows for analysis, change impact, dependency intelligence, decision support, and executive communication.
+- **Decision Support** — applying evidence, uncertainty, structured reasoning, and human review rather than treating AI output as an authoritative answer.
+
+### ⭐ Program Intelligence Copilot
+
+An AI-assisted application that converts unstructured program updates into an executive-ready view of **program health, delivery pressure, risks, blockers, dependencies, recommended actions, and leadership attention**.
+
+The project demonstrates the **application layer** of AI + TPM: taking a concrete TPM problem from problem definition and AI reasoning through product design, structured output, guardrails, dashboard visualization, and human review.
+
+→ **[View Program Intelligence Copilot](https://github.com/mesunilrai/program-intelligence-copilot)**
+
 ### ⭐ AI TPM Claude Skills
 
 A practical AI toolkit for Technical Program Management workflows, covering:
@@ -19,15 +35,7 @@ The repository also includes an **AI evaluation framework** and synthetic enterp
 
 → **[View AI TPM Claude Skills](https://github.com/mesunilrai/ai-tpm-claude-skills)**
 
-### 🚀 Program Intelligence Copilot
-
-An AI-assisted application that converts unstructured program updates into structured delivery intelligence, including **program health, risks, blockers, dependencies, and recommended next actions**.
-
-The project demonstrates the application layer of AI + TPM: taking a real TPM workflow from problem definition and AI reasoning through application design, structured output, security considerations, and human review.
-
-→ **[View Program Intelligence Copilot](https://github.com/mesunilrai/program-intelligence-copilot)**
-
-**Together, these projects demonstrate my approach across AI workflow design, AI reasoning, product thinking, and practical application development.**
+**Together, these projects demonstrate a broader AI + TPM approach across workflow design, AI reasoning, product thinking, and practical application development — not limited to a single AI tool or platform.**
 
 ## 🧠 Areas of Focus
 
